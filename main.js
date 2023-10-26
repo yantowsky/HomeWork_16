@@ -1,7 +1,7 @@
 let points = 0;
 let firstAnswer, secondAnswer, thirdAnswer, fourthAnswer, fifthAnswer;
 
-let firstQuestion = +prompt("'Скільки буде 2+2?"),
+let firstQuestion = +prompt("Скільки буде 2+2?"),
     secondQuestion = confirm("Сонце встає на сході?"),
     thirdQuestion = prompt("Скільки буде 5 / 0?"),
     fourthQuestion = prompt("Якого кольору небо?"),
